@@ -1,3 +1,9 @@
 # Chart JS DOM with API data
 
-![view](./view.png)
+### Employee Salaries
+
+![salaries](./salaries.png)
+
+### Employee Ages
+
+![ages](./ages.png)
